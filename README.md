@@ -125,7 +125,6 @@ Individually installable Agent Skills collections, rather than one client-specif
 - [adr-kit](https://github.com/rvdbreemen/adr-kit) - Architecture Decision Record toolkit for Claude Code, Codex, GitHub Copilot CLI, and OpenCode that injects the governing decisions before each edit, guides ADR authoring, and enforces decisions in deterministic pre-commit and CI gates.
 - [Aegis](https://github.com/GanyuanRan/Aegis) - An agentic skills framework & software development methodology that works: planning, TDD, debugging, and collaboration workflows.
 - [aegotrax](https://github.com/aegotrax-dev/aegotrax) - Runtime tool-call gate for agents: session intent, approval queue, and audit stream.
-- [ARC](https://github.com/avandall/ARC) - Autonomous Reliability, Deterministic simulation, zero-prod replay, and chaos-engineering test harness for AI agents 
 - [Agency Continuity Audit](https://github.com/revertcreations/agency-continuity-audit) - Read-only audit that distinguishes durable agent goals, state, corrections, restart evidence, authority boundaries, scheduler claims, and commercial proof from self-reported health.
 - [Agent Context OS](https://github.com/conorbronsdon/agent-context-os) - Portable Git-backed context and session workflow layer with first-class Claude Code, Codex, and OpenClaw support plus experimental adapters for Hermes, Cursor, and Devin.
 - [Agent Deck](https://github.com/not-so-fat/agent-deck) - One MCP for context management: bind self-improving playbooks, MCP tools, and API keys to the session.
@@ -167,6 +166,7 @@ Individually installable Agent Skills collections, rather than one client-specif
  - [angles-video-skill](https://github.com/anglesvideo/angles-video-skills) - AI video generation skill for Claude Code supporting Veo3, Kling 3.0, Wan, and HunyuanVideo via the angles.video API.
 - [Antigravity Context Meter](https://github.com/Dunphil692/antigravity-context-meter) - Real-time 1:1 Cursor-style context meter & zero-loss session migration for Google Antigravity (Desktop HUD & IDE Extension).
 - [Antigravity Workspace Template](https://github.com/study8677/antigravity-workspace-template) - Multi-agent codebase knowledge graph generator with context-aware planning and automatic scope management — turns codebases into coherent agent workspaces.
+- [ARC](https://github.com/avandall/ARC) - Autonomous Reliability, Deterministic simulation, zero-prod replay, and chaos-engineering test harness for AI agents
 - [Archcore](https://github.com/archcore-ai/archcore) - Spec-driven development and context engineering for Claude Code, Cursor, Codex, and GitHub Copilot — backed by project context in Git.
 - [AREX-Skill](https://github.com/VectorSpaceLab/AREX-Skill) - A library of 5,000+ verified, executable skills distilled from ML repositories for coding and research agents.
 - [ArmorCodex](https://github.com/armoriq/armorCodex) - Intent-based security for Codex with MCP plan registration, policy gating, CSRG cryptographic proofs, and audit logging on `bash` and `apply_patch`.
